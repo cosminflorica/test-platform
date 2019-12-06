@@ -1,0 +1,10 @@
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Debug\DataLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojAssemblyReference.cache
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

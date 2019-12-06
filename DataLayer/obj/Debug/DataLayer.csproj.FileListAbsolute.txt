@@ -1,0 +1,4 @@
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\DataLayer\obj\Debug\DataLayer.pdb

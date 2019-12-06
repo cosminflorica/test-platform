@@ -1,0 +1,5 @@
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessLayer\obj\Debug\BusinessEntityLayer.csprojAssemblyReference.cache
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessLayer\obj\Debug\BusinessEntityLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessLayer\obj\Debug\BusinessEntityLayer.pdb

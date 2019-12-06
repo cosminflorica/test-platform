@@ -1,0 +1,10 @@
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessLayer\bin\Release\BusinessEntityLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessLayer\bin\Release\BusinessEntityLayer.pdb
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessLayer\obj\Release\BusinessEntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessLayer\obj\Release\BusinessEntityLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessLayer\obj\Release\BusinessEntityLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessLayer\bin\Release\BusinessEntityLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessLayer\bin\Release\BusinessEntityLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessLayer\obj\Release\BusinessEntityLayer.csprojAssemblyReference.cache
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessLayer\obj\Release\BusinessEntityLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessLayer\obj\Release\BusinessEntityLayer.pdb

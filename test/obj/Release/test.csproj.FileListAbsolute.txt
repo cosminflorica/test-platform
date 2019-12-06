@@ -1,0 +1,37 @@
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\bin\Release\test.exe.config
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\obj\Release\test.Recovery.resources
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\obj\Release\test.LogInWindow.resources
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\obj\Release\test.MainWindow.resources
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\obj\Release\test.Properties.Resources.resources
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\obj\Release\test.csproj.GenerateResource.Cache
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\bin\Release\test.exe
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\bin\Release\test.pdb
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\bin\Release\BusinessAccessLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\bin\Release\BusinessEntityLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\bin\Release\DataLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\bin\Release\BusinessAccessLayer.pdb
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\bin\Release\BusinessEntityLayer.pdb
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\bin\Release\DataLayer.pdb
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\obj\Release\test.exe
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\obj\Release\test.pdb
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\obj\Release\test.TeacherType.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\bin\Release\test.exe.config
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\bin\Release\test.exe
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\bin\Release\test.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\bin\Release\BusinessAccessLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\bin\Release\BusinessEntityLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\bin\Release\DataLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\bin\Release\BusinessAccessLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\bin\Release\BusinessEntityLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\bin\Release\DataLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Release\test.csprojAssemblyReference.cache
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Release\test.Recovery.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Release\test.LogInWindow.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Release\test.MainWindow.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Release\test.Properties.Resources.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Release\test.TeacherType.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Release\test.csproj.GenerateResource.cache
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Release\test.csproj.CopyComplete
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Release\test.exe
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Release\test.pdb

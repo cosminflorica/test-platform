@@ -1,0 +1,19 @@
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessAccessLayer\obj\Release\BusinessAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessAccessLayer\bin\Release\BusinessAccessLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessAccessLayer\bin\Release\BusinessAccessLayer.pdb
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessAccessLayer\bin\Release\BusinessEntityLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessAccessLayer\bin\Release\DataLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessAccessLayer\bin\Release\BusinessEntityLayer.pdb
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessAccessLayer\bin\Release\DataLayer.pdb
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessAccessLayer\obj\Release\BusinessAccessLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\BusinessAccessLayer\obj\Release\BusinessAccessLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Release\BusinessAccessLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Release\BusinessAccessLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Release\BusinessEntityLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Release\DataLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Release\BusinessEntityLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\bin\Release\DataLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\obj\Release\BusinessAccessLayer.csprojAssemblyReference.cache
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\obj\Release\BusinessAccessLayer.csproj.CopyComplete
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\obj\Release\BusinessAccessLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\BusinessAccessLayer\obj\Release\BusinessAccessLayer.pdb

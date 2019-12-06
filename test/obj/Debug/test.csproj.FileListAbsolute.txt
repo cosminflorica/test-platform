@@ -1,0 +1,20 @@
+c:\users\cosmin florica\documents\visual studio 2015\Projects\test\test\bin\Debug\test.exe.config
+c:\users\cosmin florica\documents\visual studio 2015\Projects\test\test\bin\Debug\test.exe
+c:\users\cosmin florica\documents\visual studio 2015\Projects\test\test\bin\Debug\test.pdb
+c:\users\cosmin florica\documents\visual studio 2015\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\cosmin florica\documents\visual studio 2015\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+c:\users\cosmin florica\documents\visual studio 2015\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+c:\users\cosmin florica\documents\visual studio 2015\Projects\test\test\obj\Debug\test.exe
+c:\users\cosmin florica\documents\visual studio 2015\Projects\test\test\obj\Debug\test.pdb
+c:\users\cosmin florica\documents\visual studio 2015\Projects\test\test\obj\Debug\test.LogInWindow.resources
+c:\users\cosmin florica\documents\visual studio 2015\Projects\test\test\obj\Debug\test.MainWindow.resources
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\test\obj\Debug\test.Recovery.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Debug\test.Recovery.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Debug\test.LogInWindow.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Debug\test.MainWindow.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Debug\test.TeacherType.resources
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Debug\test.exe
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\test\obj\Debug\test.pdb

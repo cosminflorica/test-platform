@@ -1,0 +1,10 @@
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\DataLayer\bin\Release\DataLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\DataLayer\obj\Release\DataLayer.dll
+C:\Users\Cosmin Florica\documents\visual studio 2015\Projects\test\DataLayer\obj\Release\DataLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\DataLayer\bin\Release\DataLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\DataLayer\obj\Release\DataLayer.csprojAssemblyReference.cache
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\DataLayer\obj\Release\DataLayer.dll
+C:\Users\Cosmin\Downloads\Proiect_CosminFloricaE213C\test\DataLayer\obj\Release\DataLayer.pdb
